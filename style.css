@@ -1,6 +1,17 @@
 *{
-    margin: 50px;
     background-color: aliceblue;
+}
+#header{
+    font-size: 90px;
+    text-align: center;
+    font-family:sans-serif;
+    color: white;
+    background-color: gray;
+    border-radius: 30px;
+    border-right: 0.5px solid black;
+    border-bottom: 0.5px solid black;
+    box-shadow: 10px 20px 20px antiquewhite;
+    margin: 5px 20px 100px;
 }
 .github{
     
@@ -9,6 +20,8 @@
     border-right: 0.5px solid gray;
     border-radius: 15px;
     box-shadow: 20px 30px 20px gray;
+    margin: 20px 50px 100px;
+    padding: 5px 50px;
 
 }
 .heading{
@@ -21,6 +34,20 @@
      border-right: 1px solid whitesmoke;
      border-radius: 10px;
      box-shadow: 20px 20px 20px gray ;
+     margin: 10px;
+     padding: 2px 5px 10px;
 
      
+}
+.paragraph{
+
+    background-color: antiquewhite;
+    text-align: justify;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 0.5px solid gainsboro;
+    border-radius: 5px;
+    box-shadow: 0px 0px 30px gainsboro;
+
+
+
 }
